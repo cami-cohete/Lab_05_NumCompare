@@ -20,11 +20,11 @@ public class Main {
         int secondNum = 0;
 
         System.out.println("Enter an integer: ");
-        firstNum = 2; // user input
+        firstNum = 8; // user input
         System.out.println("Enter a second integer: ");
         secondNum = 4; // user input
 
-        System.out.println(" the simulated user inputs are " + firstNum + " and " + secondNum);
+        System.out.println("The simulated user inputs are " + firstNum + " and " + secondNum);
 
         if (firstNum == secondNum)
         {
